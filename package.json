@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AmbyHasan/NodePractice#readme",
+  "bugs": {
+    "url": "https://github.com/AmbyHasan/NodePractice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmbyHasan/NodePractice.git"
+  },
+  "license": "ISC",
+  "author": "Amber Hasan",
+  "type": "commonjs",
+  "main": "node1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
